@@ -1,0 +1,22 @@
+/* ===========================
+   RESPONSIVE — LARGE SCREENS
+=========================== */
+
+@media (min-width: 768px) {
+
+    .vacation-ads {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    #menu-toggle {
+        display: none;
+    }
+
+    .mobile-nav {
+        display: none !important;
+    }
+
+    .top-nav {
+        display: flex;
+    }
+}
