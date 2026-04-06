@@ -142,7 +142,7 @@ header {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     animation: slideUp 0.6s ease-out;
     border-left: 6px solid var(--primary);
-    max-width: 350px;
+    max-width: 480px;
     margin: 0 auto;
 }
 

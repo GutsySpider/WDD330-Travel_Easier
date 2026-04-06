@@ -3,7 +3,7 @@ export const vacationAds = [
     title: "Beach Escape",
     description: "Relax on sunny shores with crystal clear water.",
     location: "Bali, Indonesia",
-    image: "/images/bali.webp", // <-- replace with your actual file
+    image: "./public/images/bali_beach.webp", 
     pointsOfInterest: [
       "Waterbom Bali",
       "Sacred Monkey Forest Sanctuary",
@@ -16,7 +16,7 @@ export const vacationAds = [
     title: "Mountain Adventure",
     description: "Hike breathtaking trails and enjoy fresh air.",
     location: "Swiss Alps",
-    image: "/images/swiss-alps.webp", // <-- replace with your actual file
+    image: "./public/images/alps.webp", 
     pointsOfInterest: [
       "The Matterhorn",
       "Bernina Express",
@@ -29,7 +29,7 @@ export const vacationAds = [
     title: "City Lights",
     description: "Explore culture, food, and nightlife in a vibrant city.",
     location: "Tokyo, Japan",
-    image: "/images/tokyo.webp", // <-- replace with your actual file
+    image: "./public/images/tokyo.webp", 
     pointsOfInterest: [
       "Senso-ji Temple",
       "Tokyo Tower",
